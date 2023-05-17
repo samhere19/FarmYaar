@@ -49,3 +49,4 @@ Farmers today face issues with irrigation, a lack of weather information, a lack
 
 
 
+![Screenshot 2023-05-13 142141](https://github.com/samhere19/FarmYaar/assets/117563846/f30309ae-02c6-4629-bcaf-cf824c0fa62c)
